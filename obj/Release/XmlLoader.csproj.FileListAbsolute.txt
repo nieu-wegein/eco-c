@@ -1,0 +1,9 @@
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\XmlLoader.csproj.GenerateResource.cache
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\XmlLoader.csproj.CoreCompileInputs.cache
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+c:\Users\PC\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
